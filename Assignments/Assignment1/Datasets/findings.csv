@@ -1,3 +1,29 @@
-"Name","FullName","Length","LastWriteTime"
-"audit.csv","/home/kali/CSCI1411-Fall2025/Assignments/Assignment1/Datasets/audit.csv","138477","9/1/2025 1:57:19 PM"
-"adj3unempstates.csv","/home/kali/CSCI1411-Fall2025/Assignments/Assignment1/Datasets/Data/adj3unempstates.csv","80743","9/1/2025 1:57:19 PM"
+"PSPath","PSParentPath","PSChildName","UnixStat","PSDrive","PSProvider","PSIsContainer","UnixMode","User","Group","Size","Mode","ModeWithoutHardLink","VersionInfo","BaseName","ResolvedTarget","Target","LinkType","Name","Length","DirectoryName","Directory","IsReadOnly","Exists","FullName","Extension","CreationTime","CreationTimeUtc","LastAccessTime","LastAccessTimeUtc","LastWriteTime","LastWriteTimeUtc","LinkTarget","UnixFileMode","Attributes"
+"Microsoft.PowerShell.Core\FileSystem::/home/kali/CSCI1411-Spring2026/Assignments/Assignment1/Datasets/More Data/LoanData.csv","Microsoft.PowerShell.Core\FileSystem::/home/kali/CSCI1411-Spring2026/Assignments/Assignment1/Datasets/More Data","LoanData.csv","System.Management.Automation.Platform+Unix+CommonStat","/","Microsoft.PowerShell.Core\FileSystem","False","-rwxrwxr-x","kali","kali","163040","-----","-----","File:             /home/kali/CSCI1411-Spring2026/Assignments/Assignment1/Datasets/More Data/LoanData.csv
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","LoanData","/home/kali/CSCI1411-Spring2026/Assignments/Assignment1/Datasets/More Data/LoanData.csv",,,"LoanData.csv","163040","/home/kali/CSCI1411-Spring2026/Assignments/Assignment1/Datasets/More Data","/home/kali/CSCI1411-Spring2026/Assignments/Assignment1/Datasets/More Data","False","True","/home/kali/CSCI1411-Spring2026/Assignments/Assignment1/Datasets/More Data/LoanData.csv",".csv","9/1/2025 1:57:19 PM","9/1/2025 5:57:19 PM","2/10/2026 7:34:55 PM","2/11/2026 12:34:55 AM","9/1/2025 1:57:19 PM","9/1/2025 5:57:19 PM",,"OtherExecute, OtherRead, GroupExecute, GroupWrite, GroupRead, UserExecute, UserWrite, UserRead","Normal"
+"Microsoft.PowerShell.Core\FileSystem::/home/kali/CSCI1411-Spring2026/Assignments/Assignment1/Datasets/More Data/ToyotaCorolla.csv","Microsoft.PowerShell.Core\FileSystem::/home/kali/CSCI1411-Spring2026/Assignments/Assignment1/Datasets/More Data","ToyotaCorolla.csv","System.Management.Automation.Platform+Unix+CommonStat","/","Microsoft.PowerShell.Core\FileSystem","False","-rwxrwxr-x","kali","kali","60530","-----","-----","File:             /home/kali/CSCI1411-Spring2026/Assignments/Assignment1/Datasets/More Data/ToyotaCorolla.csv
+InternalName:     
+OriginalFilename: 
+FileVersion:      
+FileDescription:  
+Product:          
+ProductVersion:   
+Debug:            False
+Patched:          False
+PreRelease:       False
+PrivateBuild:     False
+SpecialBuild:     False
+Language:         
+","ToyotaCorolla","/home/kali/CSCI1411-Spring2026/Assignments/Assignment1/Datasets/More Data/ToyotaCorolla.csv",,,"ToyotaCorolla.csv","60530","/home/kali/CSCI1411-Spring2026/Assignments/Assignment1/Datasets/More Data","/home/kali/CSCI1411-Spring2026/Assignments/Assignment1/Datasets/More Data","False","True","/home/kali/CSCI1411-Spring2026/Assignments/Assignment1/Datasets/More Data/ToyotaCorolla.csv",".csv","9/1/2025 1:57:19 PM","9/1/2025 5:57:19 PM","2/10/2026 7:34:55 PM","2/11/2026 12:34:55 AM","9/1/2025 1:57:19 PM","9/1/2025 5:57:19 PM",,"OtherExecute, OtherRead, GroupExecute, GroupWrite, GroupRead, UserExecute, UserWrite, UserRead","Normal"
