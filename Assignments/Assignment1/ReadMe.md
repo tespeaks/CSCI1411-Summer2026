@@ -14,7 +14,7 @@
 
 Visit https://github.com/lhundt-ung/CSCI1411-Spring2026 to obtain directions on how to sync the base assignment file to your lab machine.
 
-**Important** Submit your completed assignment to D2L as assignment1.ps1.txt. For example, assignment1.ps1.txt
+**Important** Submit your completed assignment to D2L as lastname-assn1.ps1.txt. For example, speaks-assn1.ps1.txt
 
 Points will be deducted for not submitting the assignment correctly. Submissions will only be accepted through D2L. 
 
