@@ -12,7 +12,7 @@
 
 3. Use of CMDLETs
 
-Visit https://github.com/lhundt-ung/CSCI1411-Spring2026 to obtain directions on how to sync the base assignment file to your lab machine.
+Visit https://github.com/tespeaks/CSCI1411-Summer2026 to obtain directions on how to sync the base assignment file to your lab machine.
 
 **Important** Submit your completed assignment to D2L as lastname-assn1.ps1.txt. For example, speaks-assn1.ps1.txt
 
