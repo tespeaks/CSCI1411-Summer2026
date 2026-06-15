@@ -11,7 +11,7 @@ Metasploitable VM
 
 2. Use of nmap & metasploit
 
-Visit https://github.com/lhundt-ung/CSCI1411-Spring2026 to obtain directions on how to sync the base assignment file to your lab machine.
+Visit https://github.com/tespeaks/CSCI1411-Summer2026 to obtain directions on how to sync the base assignment file to your lab machine.
 
 Deliverable: 2 Files -> assignment5.sh and SecurityReport-<IP Address>.html
 Upload both files to D2L. If assignment5.sh has an error when uploading to D2L, just append .txt to the end.
