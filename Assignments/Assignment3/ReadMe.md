@@ -15,7 +15,7 @@
 
 2. Use of Regular Expressions (RegEx)
 
-Visit https://github.com/lhundt-ung/CSCI1411-Spring2026 to obtain directions on how to sync the base assignment file to your lab machine.
+Visit https://github.com/tespeaks/CSCI1411-Summer2026 to obtain directions on how to sync the base assignment file to your lab machine.
 
 If you have been successful in cloning the directory as in Assignment1, you only need to run git pull inside of CS1411
 
